@@ -25,7 +25,7 @@ This project was created with Parcel. For familiarization and setting additional
 
 To set up a project deployment, you need to perform a few additional steps to set up your repository. Go to the `Settings` tab and in the `Actions` subsection select the `General` item.
 
-![GitHub actions settings](./assets/actions-config-step-1.png)
+![GitHub actions settings]   (./assets/actions-config-step-1.png)
 
 Scroll the page to the last section, in which make sure the options are selected as in the following image and click `Save`. Without these settings, the build will not have enough rights to automate the deployment process.
 
