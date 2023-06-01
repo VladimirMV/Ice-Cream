@@ -1,21 +1,21 @@
 {
-  "name": "upgrade-team",
+  "name": "ice-cream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://BilousPM.github.io/upgrade-team",
+  "homepage": "https://VladimirMV.github.io/ice-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /upgrade-team/"
+    "build": "parcel build src/*.html --public-url /ice-cream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BilousPM/upgrade-team.git"
+    "url": "git+https://github.com/VladimirMV/upgrade-team.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BilousPM/upgrade-team/issues"
+    "url": "https://github.com/VladimirMV/ice-cream/issues"
   },
   "dependencies": {
     "jquery": "^3.6.3",
